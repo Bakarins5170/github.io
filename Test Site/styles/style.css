@@ -1,0 +1,49 @@
+	html {
+		font-size: 20px;
+		font-family: 'Josefin Sans', sans-serif;
+	}
+	p {
+		color: green;
+		width: 500px;
+	}
+
+	li {
+		color: green;
+	}
+	h1, h2, h3, h4, h5 {
+		color: green;
+	}
+	h1 {
+		font-size: 60px;
+		text-align: center;
+	}
+
+	p, li {
+		font-size: 16px;
+		line-height: 2;
+		letter-spacing: 1px;
+	}
+
+	html {
+		background-color: #42f465;
+	}
+
+	body {
+		width: 600px;
+		margin: 0 auto;
+		background-color: #000000;
+		padding: 0 20px 20px 20px;
+		border: 5px solid black;
+	}
+
+	h1 {
+		margin: 0;
+		padding: 20px 0;
+		color: green;
+		text-shadow: 3px 3px 1px white;
+	}
+
+	img {
+		display: block;
+		margin: 0 auto;
+	}
